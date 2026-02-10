@@ -55,14 +55,14 @@ class JatinKMalik:
 
 | Company | Role | Focus Area |
 |---------|------|------------|
-| **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Distributed Systems & AI Platforms |
-| **[Uber](https://www.uber.com)** | Software Architect | Scalable Infrastructure |
-| **[Synaptic](https://www.synaptic.com)** | SDE 3 | Data Intelligence |
-| **[Shuttl](https://www.crunchbase.com/organization/shuttl)** | SDE 2 | Transportation Tech |
-| **[Adobe](https://www.adobe.com)** | SDE 1 | Creative Cloud |
-| **[Webyog](https://www.webyog.com)** | Intern | Database Tools |
-| **[Microsoft](https://mvp.microsoft.com/studentambassadors)** | MSP | Student Programs |
-| **[DRDO](https://www.drdo.gov.in)** | Intern | Defense R&D |
+| **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Enterprise data portability & A2A AI platforms |
+| **[Uber](https://www.uber.com)** | Software Architect | Customer platform architecture & resilient systems |
+| **[Synaptic](https://www.synaptic.com)** | SDE 3 | Alternative data platform for financial insights |
+| **[Shuttl](https://www.crunchbase.com/organization/shuttl)** | SDE 2 | IoT hardware to cloud backend, real-time tracking |
+| **[Adobe](https://www.adobe.com)** | SDE 1 | Adobe Experience Manager & enterprise integrations |
+| **[Webyog](https://www.webyog.com)** | Intern | QA automation & MySQL management tools |
+| **[Microsoft](https://mvp.microsoft.com/studentambassadors)** | MSP | Technical workshops & Windows/mobile apps |
+| **[DRDO](https://www.drdo.gov.in)** | Intern | Task scheduling optimization for defense systems |
 
 </div>
 
