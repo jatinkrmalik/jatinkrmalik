@@ -40,40 +40,18 @@ class JatinKMalik:
 
 <div align="center">
 
-### **Where I've Worked**
-
-<a href="https://www.atlassian.com">
-  <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="60" height="60" alt="Atlassian" title="Principal Engineer - Distributed Systems & AI Platforms" style="margin: 10px;"/>
-</a>
-<a href="https://www.uber.com">
-  <img src="https://cdn.simpleicons.org/uber/000000" width="60" height="60" alt="Uber" title="Software Architect - Scalable Infrastructure" style="margin: 10px;"/>
-</a>
-<a href="https://www.synaptic.com">
-  <img src="https://cdn.simpleicons.org/abstract/000000" width="60" height="60" alt="Synaptic" title="SDE 3 - Data Intelligence" style="margin: 10px;"/>
-</a>
-<a href="https://www.crunchbase.com/organization/shuttl">
-  <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="60" height="60" alt="Shuttl" title="SDE 2 - Transportation Tech" style="margin: 10px;"/>
-</a>
-<a href="https://www.adobe.com">
-  <img src="https://cdn.simpleicons.org/adobe/FF0000" width="60" height="60" alt="Adobe" title="SDE 1 - Creative Cloud" style="margin: 10px;"/>
-</a>
-<a href="https://www.webyog.com">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" height="60" alt="Webyog" title="Intern - Database Tools" style="margin: 10px;"/>
-</a>
-<a href="https://mvp.microsoft.com/studentambassadors">
-  <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="60" height="60" alt="Microsoft" title="MSP - Student Programs" style="margin: 10px;"/>
-</a>
-<a href="https://www.drdo.gov.in">
-  <img src="https://cdn.simpleicons.org/government/FF6B00" width="60" height="60" alt="DRDO" title="Intern - Defense R&D" style="margin: 10px;"/>
-</a>
+| Company | Role | Focus Area |
+|---------|------|------------|
+| **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Distributed Systems & AI Platforms |
+| **[Uber](https://www.uber.com)** | Software Architect | Scalable Infrastructure |
+| **[Synaptic](https://www.synaptic.com)** | SDE 3 | Data Intelligence |
+| **[Shuttl](https://www.crunchbase.com/organization/shuttl)** | SDE 2 | Transportation Tech |
+| **[Adobe](https://www.adobe.com)** | SDE 1 | Creative Cloud |
+| **[Webyog](https://www.webyog.com)** | Intern | Database Tools |
+| **[Microsoft](https://mvp.microsoft.com/studentambassadors)** | MSP | Student Programs |
+| **[DRDO](https://www.drdo.gov.in)** | Intern | Defense R&D |
 
 </div>
-
-**Career Progression:**
-
-```
-DRDO (Intern) → Webyog (Intern) → Microsoft (MSP) → Adobe (SDE 1) → Shuttl (SDE 2) → Synaptic (SDE 3) → Uber (Architect) → Atlassian (Principal Engineer)
-```
 
 ---
 
