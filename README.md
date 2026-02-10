@@ -40,18 +40,40 @@ class JatinKMalik:
 
 <div align="center">
 
-| Company | Role | Focus Area |
-|---------|------|------------|
-| 🏢 **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Distributed Systems & AI Platforms |
-| 🚗 **[Uber](https://www.uber.com)** | Software Architect | Scalable Infrastructure |
-| 🧠 **[Synaptic](https://www.synaptic.com)** | SDE 3 | Data Intelligence |
-| 🚌 **[Shuttl](https://www.crunchbase.com/organization/shuttl)** | SDE 2 | Transportation Tech |
-| 🎨 **[Adobe](https://www.adobe.com)** | SDE 1 | Creative Cloud |
-| 🔧 **[Webyog](https://www.webyog.com)** | Intern | Database Tools |
-| 🎓 **[Microsoft](https://mvp.microsoft.com/studentambassadors)** | MSP | Student Programs |
-| 🛡️ **[DRDO](https://www.drdo.gov.in)** | Intern | Defense R&D |
+### **Where I've Worked**
+
+<a href="https://www.atlassian.com">
+  <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="60" height="60" alt="Atlassian" title="Principal Engineer - Distributed Systems & AI Platforms" style="margin: 10px;"/>
+</a>
+<a href="https://www.uber.com">
+  <img src="https://cdn.simpleicons.org/uber/000000" width="60" height="60" alt="Uber" title="Software Architect - Scalable Infrastructure" style="margin: 10px;"/>
+</a>
+<a href="https://www.synaptic.com">
+  <img src="https://cdn.simpleicons.org/abstract/000000" width="60" height="60" alt="Synaptic" title="SDE 3 - Data Intelligence" style="margin: 10px;"/>
+</a>
+<a href="https://www.crunchbase.com/organization/shuttl">
+  <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="60" height="60" alt="Shuttl" title="SDE 2 - Transportation Tech" style="margin: 10px;"/>
+</a>
+<a href="https://www.adobe.com">
+  <img src="https://cdn.simpleicons.org/adobe/FF0000" width="60" height="60" alt="Adobe" title="SDE 1 - Creative Cloud" style="margin: 10px;"/>
+</a>
+<a href="https://www.webyog.com">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" height="60" alt="Webyog" title="Intern - Database Tools" style="margin: 10px;"/>
+</a>
+<a href="https://mvp.microsoft.com/studentambassadors">
+  <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="60" height="60" alt="Microsoft" title="MSP - Student Programs" style="margin: 10px;"/>
+</a>
+<a href="https://www.drdo.gov.in">
+  <img src="https://cdn.simpleicons.org/government/FF6B00" width="60" height="60" alt="DRDO" title="Intern - Defense R&D" style="margin: 10px;"/>
+</a>
 
 </div>
+
+**Career Progression:**
+
+```
+DRDO (Intern) → Webyog (Intern) → Microsoft (MSP) → Adobe (SDE 1) → Shuttl (SDE 2) → Synaptic (SDE 3) → Uber (Architect) → Atlassian (Principal Engineer)
+```
 
 ---
 
@@ -87,27 +109,20 @@ class JatinKMalik:
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Activity**
 
 <div align="center">
-
-[![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinkrmalik&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)](https://github.com/jatinkrmalik)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jatinkrmalik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkrmalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/jatinkrmalik)
-
 </div>
 
----
-
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jatinkrmalik&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+**Quick Stats:**
+- 🔭 **63** Public Repositories
+- 👥 **124** Followers  
+- 📅 **Joined:** April 23, 2014
+- 🎯 **Total Contributions:** 4,414+
+- 🔥 **Longest Streak:** 99 days (Feb 24, 2019 - Jun 2, 2019)
 
 ---
 
@@ -156,8 +171,6 @@ Beyond code, I bring:
 ### 💬 *"If you've got a challenge that needs a creative solution, let's talk!"*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jatinkrmalik&color=00D4AA&style=flat-square)](https://github.com/jatinkrmalik)
-
-[![An image of @jatinkrmalik's Holopin badges](https://holopin.me/jatinkrmalik)](https://holopin.io/@jatinkrmalik)
 
 </div>
 
