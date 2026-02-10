@@ -40,6 +40,19 @@ class JatinKMalik:
 
 <div align="center">
 
+### **Where I've Worked**
+
+<a href="https://www.atlassian.com"><img src="atlassianLogo.webp" width="80" height="80" alt="Atlassian" title="Principal Engineer" style="margin: 10px;"/></a>
+<a href="https://www.uber.com"><img src="uberLogo.png" width="80" height="80" alt="Uber" title="Software Architect" style="margin: 10px;"/></a>
+<a href="https://www.synaptic.com"><img src="synapticLogo.jpeg" width="80" height="80" alt="Synaptic" title="SDE 3" style="margin: 10px;"/></a>
+<a href="https://www.crunchbase.com/organization/shuttl"><img src="shuttlLogo.png" width="80" height="80" alt="Shuttl" title="SDE 2" style="margin: 10px;"/></a>
+<a href="https://www.adobe.com"><img src="adobeLogo.png" width="80" height="80" alt="Adobe" title="SDE 1" style="margin: 10px;"/></a>
+<a href="https://www.webyog.com"><img src="webyogLogo.jpg" width="80" height="80" alt="Webyog" title="Intern" style="margin: 10px;"/></a>
+<a href="https://mvp.microsoft.com/studentambassadors"><img src="microsoftLogo.jpg" width="80" height="80" alt="Microsoft" title="MSP" style="margin: 10px;"/></a>
+<a href="https://www.drdo.gov.in"><img src="drdoLogo.png" width="80" height="80" alt="DRDO" title="Intern" style="margin: 10px;"/></a>
+
+<br/><br/>
+
 | Company | Role | Focus Area |
 |---------|------|------------|
 | **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Distributed Systems & AI Platforms |
