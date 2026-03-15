@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 **What I Do**
 
 I architect and scale **distributed systems** that serve millions of users. Currently building the future of collaborative work at **Atlassian**, previously shaped ride-sharing infrastructure at **Uber**.
@@ -34,8 +32,6 @@ class JatinKMalik:
         return "The challenging creative process behind building something new"
 ```
 
----
-
 ## 💼 **Professional Journey**
 
 <div align="center">
@@ -51,22 +47,7 @@ class JatinKMalik:
 <a href="https://mvp.microsoft.com/studentambassadors"><img src="microsoftLogo.jpg" width="80" height="80" alt="Microsoft" title="MSP" style="margin: 10px;"/></a>
 <a href="https://www.drdo.gov.in"><img src="drdoLogo.png" width="80" height="80" alt="DRDO" title="Intern" style="margin: 10px;"/></a>
 
-<br/><br/>
-
-| Company | Role | Focus Area |
-|---------|------|------------|
-| **[Atlassian](https://www.atlassian.com)** | Principal Engineer | Enterprise data portability & A2A AI platforms |
-| **[Uber](https://www.uber.com)** | Software Architect | Customer platform architecture & resilient systems |
-| **[Synaptic](https://www.synaptic.com)** | SDE 3 | Alternative data platform for financial insights |
-| **[Shuttl](https://www.crunchbase.com/organization/shuttl)** | SDE 2 | IoT hardware to cloud backend, real-time tracking |
-| **[Adobe](https://www.adobe.com)** | SDE 1 | Adobe Experience Manager & enterprise integrations |
-| **[Webyog](https://www.webyog.com)** | Intern | QA automation & MySQL management tools |
-| **[Microsoft](https://mvp.microsoft.com/studentambassadors)** | MSP | Technical workshops & Windows/mobile apps |
-| **[DRDO](https://www.drdo.gov.in)** | Intern | Task scheduling optimization for defense systems |
-
 </div>
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -98,8 +79,6 @@ class JatinKMalik:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
-
 ## 📊 **GitHub Activity**
 
 <div align="center">
@@ -108,15 +87,6 @@ class JatinKMalik:
 
 </div>
 
-**Quick Stats:**
-- 🔭 **63** Public Repositories
-- 👥 **124** Followers  
-- 📅 **Joined:** April 23, 2014
-- 🎯 **Total Contributions:** 4,414+
-- 🔥 **Longest Streak:** 99 days (Feb 24, 2019 - Jun 2, 2019)
-
----
-
 ## 🎓 **Human Skills**
 
 Beyond code, I bring:
@@ -124,8 +94,6 @@ Beyond code, I bring:
 - 🎯 **Leadership** - Leading teams and driving technical decisions
 - 🧩 **Problem Solving** - Breaking down complex challenges into elegant solutions  
 - 👨‍🏫 **Mentorship** - Guiding engineers to reach their full potential
-
----
 
 ## 🌐 **Let's Connect**
 
@@ -140,13 +108,9 @@ Beyond code, I bring:
 
 </div>
 
----
-
 ## 💡 **Philosophy**
 
 > *"It is not the actual work but the challenging creative process that goes behind it which inspires me to think out of the box to do something new, something satisfactory!"*
-
----
 
 ## 🎯 **Always Open To**
 
