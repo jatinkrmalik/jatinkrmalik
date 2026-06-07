@@ -7,6 +7,6 @@
   > Python · Go · Java/Kotlin · Ruby · C/C++
   $ projects
   > LLMFeeder · Voca (vocalinux, vocamac) · localcaption
-  $ follow
+  $ ping
   > https://x.com/jatinkrmalik
 ```
