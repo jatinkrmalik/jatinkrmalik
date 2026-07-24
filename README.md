@@ -3,13 +3,13 @@
   > principal engineer · open source advocate · distributed systems
 
   $ current_focus
-  > MCP · A2A · A2UI · MCP apps — AI agent infrastructure
+  > AI agent infrastructure: MCP · A2A · A2UI · MCP Apps
 
   $ tech
-  > Python · Go · Java/Kotlin · Ruby · C/C++
+  > Java/Kotlin · Python · Go · Ruby · C/C++
 
   $ projects
-  > LLMFeeder · Voca (vocalinux, vocamac) · localcaption
+  > LLMFeeder · Voca (vocalinux, vocamac) · localcaption · pmptr
 
   $ ping
   > https://x.com/jatinkrmalik
