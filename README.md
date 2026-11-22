@@ -9,7 +9,7 @@
   > Java/Kotlin · Python · Go · Ruby · C/C++
 
   $ projects
-  > VocaHQ (linux/mac/windows/ios/android) · LLMFeeder · localcaption · pmptr
+  > VocaHQ (linux/mac/windows/ios/android) · LLMFeeder · Typestash · localcaption · pmptr
 
   $ ping
   > https://x.com/jatinkrmalik
